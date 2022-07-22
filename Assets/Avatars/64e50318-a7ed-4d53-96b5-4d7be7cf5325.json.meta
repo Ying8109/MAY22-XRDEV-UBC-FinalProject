@@ -1,6 +1,12 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Avatars/64e50318-a7ed-4d53-96b5-4d7be7cf5325.json.meta
 guid: 772314c1bd8384a658f302d6daeb3fbf
 TextScriptImporter:
+========
+guid: 82c4906eb7785f84bac89389e961cb8d
+folderAsset: yes
+DefaultImporter:
+>>>>>>>> 3828b2bbc0e0d0c34d63649ead67869c69c62436:Assets/Prefabs.meta
   externalObjects: {}
   userData: 
   assetBundleName: 
